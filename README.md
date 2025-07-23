@@ -35,6 +35,8 @@ This project is an **AI-powered real-time driver monitoring system** that detect
 
 ## Running code 
 
+### open terminal and clone the repo first
+
 
  git clone https://github.com/ravikumar266/Driver-Eye-Monitoring-AI.git
 
